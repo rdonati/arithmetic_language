@@ -2,12 +2,12 @@
 
 The program can:
 
--Create variables
--Create functions
--Print the values of functions/variables
--Evaluate those functions/variables
--Prints subsets of expressions
--Append to expressions
+-Create variables<br>
+-Create functions<br>
+-Print the values of functions/variables<br>
+-Evaluate those functions/variables<br>
+-Prints subsets of expressions<br>
+-Append to expressions<br>
 
 <h4>Example Evaluations</h4>
 
