@@ -11,12 +11,12 @@ The program can:
 
 <h4>Example Evaluations</h4>
 
-<b>Evaluation:</b>
+<b>Evaluation:</b><br>
 (+ 1 2 3) will evaluate to 6<br>
 (- 1 2 3) will evaluate to -4<br>
 (\* 1 2 3) will evaluate to 6<br>
 
-<b>Subsets:</b>
+<b>Subsets:</b><br>
 r = move to the next term<br>
 f = get the value of the current term<br>
 
